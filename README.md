@@ -1,11 +1,8 @@
 <!DOCTYPE html>
 <html>
-<head>
-    <title>Automação Web com Selenium</title>
-</head>
 <body>
     <h1>Automação Web com Selenium</h1>
-    <p>Este é um script de automação web que usa o Selenium para interagir com um site e realizar várias tarefas.</p>
+    <p>Este é um script de automação web que usa o Selenium para interagir com um site e automatizar o processo de criar grupos por estados.</p>
 
   <h2>Descrição</h2>
     <p>O script realiza as seguintes tarefas:</p>
