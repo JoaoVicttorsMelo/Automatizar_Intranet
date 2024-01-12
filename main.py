@@ -21,15 +21,15 @@ driver = webdriver.Chrome(options=opcoes)
 driver.maximize_window()
 
 # Acesse o site
-driver.get("http://10.94.2.74/bconnect/login")
+driver.get("url da intranet")
 
 # Encontre o campo de e-mail e insira o e-mail
 email_field = driver.find_element(By.ID, "email")
-email_field.send_keys("joao.silveira@viaveneto.com.br")
+email_field.send_keys("meu_email")
 
 # Encontre o campo de senha e insira a senha
 password_field = driver.find_element(By.ID, "password")
-password_field.send_keys("jvsml123")
+password_field.send_keys("minha_senha")
 
 # Submeta o formulário pressionando Enter
 password_field.submit()
