@@ -26,7 +26,7 @@
   <h2>Uso</h2>
     <p>Para usar este script, você precisa ter um arquivo chamado file.txt no mesmo diretório do script. Este arquivo deve conter os nomes das lojas, um por linha.</p>
     <p>Depois de ter o arquivo file.txt, você pode executar o script com o seguinte comando:</p>
-    <pre><code>python script.py</code></pre>
+    <pre><code>python main.py</code></pre>
 
   <h2>Contribuição</h2>
     <p>Contribuições para este projeto são bem-vindas! Por favor, abra uma issue ou um pull request se você tiver alguma melhoria ou correção para sugerir.</p>
